@@ -29,6 +29,9 @@ The application combines a fine-tuned Qwen model, a hybrid RAG retrieval pipelin
 
 **Important:** This is an educational prototype using synthetic banking data. It is not connected to HDFC Bank's live banking infrastructure or real customer accounts.
 
+
+**COLLAB LINK:**  https://colab.research.google.com/drive/1MfWUh4affUAG_SRwt_muYBenxpKZS0Cd?usp=sharing
+
 ---
 
 ## 2. Business Problem
